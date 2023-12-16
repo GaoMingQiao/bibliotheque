@@ -1,0 +1,39 @@
+paris,dupont,Mme,2022-04-07T00:07,50,roman,10,trop bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+italie,marie,Mme,2022-04-07T00:07,300,poesie,20,bien
+Pretty girl,Jenny,Mme,2020-12-05T02:22,50,roman,50,Intéressant!
+Pretty girl,Jenny,Mme,2021-06-16T02:24,300,roman,50,Intéressant!
